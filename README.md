@@ -39,22 +39,25 @@ Al termine del corso, i partecipanti saranno in grado di:
 | ----------- | ----------- |
 | 9.30 | Indroduzione al Machine Learning |
 |11.30 | Pipeline di addestramento supervisionato |
-|-------------------------|
+
 | 3 Giugno | Aula Zampieri |
 | ----------- | -----------|
 | 9.30 | Apprendimento non-supervisionato |
 |10.30 | Esercitazione: Apprendimento non-supervisionato |
 |12.00 | Basi del Deep Learning |
-|-------------------------|
+
 | 10 Giugno | Aula Missiroli |
+| ----------- | -----------|
 | 9.30 | Esercitazione: Basi del Deep Learning |
 |11.30 |Strategie per affrontare dati "difficili"|
-|-------------------------|
+
 | 10 Giugno | Aula Missiroli |
+| ----------- | -----------|
 | 9.30 | Segmentazione e object detection |
 |11.30 |Explainability|
 |12.00 | Esercitazione: Explainability |
-|-------------------------|
+
 | 27 Giugno | Aula Nitti-Bovet |
+| ----------- | -----------|
 | 9.30 | Seminari|
 
