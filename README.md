@@ -36,10 +36,12 @@ Al termine del corso, i partecipanti saranno in grado di:
 
 ## Programma
 | 27 Maggio | Aula Zampieri |
+| ----------- | ----------- |
 | 9.30 | Indroduzione al Machine Learning |
 |11.30 | Pipeline di addestramento supervisionato |
 |-------------------------|
 | 3 Giugno | Aula Zampieri |
+| ----------- | -----------|
 | 9.30 | Apprendimento non-supervisionato |
 |10.30 | Esercitazione: Apprendimento non-supervisionato |
 |12.00 | Basi del Deep Learning |
